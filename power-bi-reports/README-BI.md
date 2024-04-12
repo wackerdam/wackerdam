@@ -5,9 +5,18 @@ This repository contains a Power BI report that examines key trends and factors 
 
 **Report Focus Areas:**
 
-* **Job Sectors:**  Visualizations of the top industries and sectors hiring data professionals, along with growth projections.
-* **Salaries:** Salary distribution across different data roles (analyst, scientist, engineer) with breakdowns by experience level, location, and company size.
+* **Work Settings:** Analysis of the effect of work settings in the different types of work setting such as in-person, hybrid, and remote.
+* **Job Sectors:**  Visualizations of the top industries and sectors hiring data professionals, along with growth projections. 
 * **Company Sizes:**  Analysis of how company size (startups, mid-size, large enterprises) influences data job availability and compensation.
+
+**Key Findings**
+
+* **Work Settings**
+* Data Science and research make up the largest percentage of in-person workers. This would make sense because the nature of research requires the data scientists to be on-site. The Cloud and Database sector is the only sector where Remote working is the most popular work setting. There is no sector where the hybrid worksetting is the most popular. If we take a closer look at the different sectors, we can see that the sector with the highest average salary would be Machine Learning and AI. This indicates that machine learning and ai is a sector that has a high demand for skilled workers. 
+* **Job Sectors:**
+* This report highlights a significant increase in the demand for machine learning expertise. Jobs in the machine learning and AI (Artificial Intelligence) field are expected to grow by 50% in the next five years, according to the report. This suggests a flourishing job market for professionals with machine learning skills.
+* **Company Sizes:**
+*This report reveals a positive trend for entry-level workers in the data field, particularly within medium-sized companies. The data suggests that medium-sized companies offer a favorable environment for entry-level workers, potentially leading to faster growth and higher flourishing compared to their counterparts at larger or smaller firms.
 
 **Datasets:**
 
