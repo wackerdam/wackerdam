@@ -8,12 +8,10 @@ This repository contains a Power BI report that examines key trends and factors 
 * **Job Sectors:**  Visualizations of the top industries and sectors hiring data professionals, along with growth projections.
 * **Salaries:** Salary distribution across different data roles (analyst, scientist, engineer) with breakdowns by experience level, location, and company size.
 * **Company Sizes:**  Analysis of how company size (startups, mid-size, large enterprises) influences data job availability and compensation.
-* **Additional Insights:** The report might explore factors like skill requirements, regional trends, and emerging data-related roles.
 
 **Datasets:**
 
-* *[Dataset 1 Name/Source]* (Provide a brief description and link if publicly available).
-* *[Dataset 2 Name/Source]* (If you used multiple datasets).
+* *[jobs_in_data_2024/kaggle]* (Salary Trends in Data-Related Careers. https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data).
 
 **Prerequisites:**
 
@@ -22,13 +20,13 @@ This repository contains a Power BI report that examines key trends and factors 
 **Usage:**
 
 1. Download or clone this repository.
-2. Open the `Data_Jobs_2024_Report.pbix` file in Power BI Desktop.
+2. Open the `MT412_powerbi_6_Viet_Du_Patrick_Dam_Mason_McWilliams_William_John_Potterton_Thomas_Prior.pbix` file in Power BI Desktop.
 3. Explore the interactive visualizations, dashboards, and report pages.
 
 **Notes:**
 
-* This report uses [sample dataset(s)].  Adapt or replace the data sources for more accurate or targeted insights.
-* The analysis focuses on [region/country]. Modify filters and visualizations to explore different geographical areas.
+* This report uses [jobs_in_data_2024]. 
+* The analysis focuses on Global Trends. Modify filters and visualizations to explore different geographical areas.
 
 **Disclaimer**
 
