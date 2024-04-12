@@ -16,7 +16,7 @@ This repository contains a Power BI report that examines key trends and factors 
 * **Job Sectors:**
 * This report highlights a significant increase in the demand for machine learning expertise. Jobs in the machine learning and AI (Artificial Intelligence) field are expected to grow by 50% in the next five years, according to the report. This suggests a flourishing job market for professionals with machine learning skills.
 * **Company Sizes:**
-*This report reveals a positive trend for entry-level workers in the data field, particularly within medium-sized companies. The data suggests that medium-sized companies offer a favorable environment for entry-level workers, potentially leading to faster growth and higher flourishing compared to their counterparts at larger or smaller firms.
+* This report reveals a positive trend for entry-level workers in the data field, particularly within medium-sized companies. The data suggests that medium-sized companies offer a favorable environment for entry-level workers, potentially leading to faster growth and higher flourishing compared to their counterparts at larger or smaller firms.
 
 **Datasets:**
 
