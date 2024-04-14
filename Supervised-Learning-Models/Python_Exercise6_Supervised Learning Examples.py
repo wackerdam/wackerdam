@@ -8,8 +8,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 # Import the Dataset
-inpPath = 'C:/.../data/'
-inpDf = pd.read_csv(inpPath + 'inpFle_BCCP.csv', sep=',', header=0, index_col=0)
+inpPath = 'C:/.../data/'  # Update with correct file path
+xDf, yDf = load_data(inpPath + 'inpFle_BCCP.csv')
 
 xDf = inpDf.drop(columns='churn')
 yDf = inpDf['churn']
